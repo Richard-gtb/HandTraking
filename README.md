@@ -5,4 +5,4 @@ The idea of ​​the project was to learn how to deal with AI, integrating it w
 The completion of the project gave my university group greater clarity about the different possible areas of action in which AI can be used.
 
 Here is a link to some demo videos and final documentation:
-https://drive.google.com/file/d/13n-jwYjHUeAt09M5aJI4FlueDUqquNty/view?usp=sharing
+https://drive.google.com/drive/folders/1UR64GcOzMkq1WeaSxMyDx8Hr38AvnbcJ?usp=sharing
